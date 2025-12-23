@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "Z.ai Code Scaffold",
     description: "AI-powered development with modern React stack",
   },
+  other: {
+    "facebook-domain-verification": "5h35vowov3j8m6886dfca1y1zkqvtq",
+  },
 };
 
 export default function RootLayout({
